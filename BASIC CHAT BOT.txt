@@ -1,0 +1,13 @@
+print("Hi!")
+ans=input()
+print("What is your name?")
+name=input()
+print("How old are u",name)
+age=int(input())
+print(name,"r u free,lets play a game")
+print("okay")
+play = input()
+y = "ate"
+print("are u ready to see the joining of your letter and mine?")
+ans1= input()
+print(y+play)
