@@ -1,0 +1,7 @@
+owns(rahul,car(bmw)).
+owns(aditiya,car(chevy)).
+owns(rahman,car(civic)).
+owns(afzal,car(lamborgini)).
+sedan(car(bmw)).
+sedan(car(civic)).
+truck(car(chevy)).
